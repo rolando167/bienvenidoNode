@@ -18,6 +18,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // listening the server
 app.listen(app.get('port'),(req, res)=>{
-	console.log('Server running at http://localhost:/', app.get('port'));
+	console.log('Server running at http://localhost:', app.get('port'));
 });
 
