@@ -24,10 +24,10 @@
 🏴🚩📌 You must remove container first.
 
 #check container
-docker ps -a
+* docker ps -a
 
 #remove container
-docker rm containerID
+* docker rm containerID
 <hr/>
 <img src="/main.jpg" />
 
