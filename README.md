@@ -1,4 +1,4 @@
-#🥇🥇 **Node Basico 2020 - 🐋 Docker 2024 simple** ❗❗❗
+#🥇🥇 **Node Basico 2020 - 🐋 Docker 2024 simple** ❗❗❗ 💎💎
  
 ## Node
 * npm i
@@ -19,6 +19,9 @@
 
 🌐 http://localhost:3001/
 
+
+# stop container
+- docket stop containerID
 
 🔴 Delete image 
 🏴🚩📌 You must remove container first.
