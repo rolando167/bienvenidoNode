@@ -2,8 +2,8 @@
 
 #Test 
 
-1.- dockerfile
-2.- dockerignore
+📍 dockerfile
+📍  dockerignore
 
 <hr/>
 <img src="/main.jpg" />
