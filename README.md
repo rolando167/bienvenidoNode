@@ -3,7 +3,7 @@
 # Node
 1 npm i
 1 npm start
-
+- [x] #739
  
 # Docker
 * 📍 dockerfile
