@@ -6,7 +6,7 @@
 - [x] #739
  
 ## Docker 🐋
-* 📍 dockerfile
+* 📍 Dockerfile
 * 📍 dockerignore
 
 
