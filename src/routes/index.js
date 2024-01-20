@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/', (req, res)=>{
-	res.render('index.html', { title:'Bienvenido SR.' });
+	res.render('index.html', { title:'Bienvenido SR. 😄' });
 	// console.log(path.join(__dirname, 'views/index.html'));// para qu no afecte \ ó / 
 });
 
