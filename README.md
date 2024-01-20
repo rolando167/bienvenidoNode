@@ -9,6 +9,25 @@
 * 📍 dockerfile
 * 📍 dockerignore
 
+
+<hr/>
+
+* docker build -t node-api-vide:latest  .
+* docker images
+* docker run -p 3001:3000 node-bienvenidos:latest
+
+
+🌐 http://localhost:3001/
+
+
+🔴 Delete image 
+🏴 You must remove container first.
+
+#check container
+docker ps -a
+
+#remove container
+docker rm containerID
 <hr/>
 <img src="/main.jpg" />
 

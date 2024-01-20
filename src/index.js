@@ -21,3 +21,6 @@ app.listen(app.get('port'),(req, res)=>{
 	console.log('Server running at http://localhost:', app.get('port'));
 });
 
+
+//Docker considerar: puerto interno y puerto externo  3001:3000
+// https://hub.docker.com/_/node
