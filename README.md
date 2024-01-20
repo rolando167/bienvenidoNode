@@ -7,7 +7,7 @@
  
 ## Docker 🐋
 * 📍 Dockerfile
-* 📍 dockerignore
+* 📍 .dockerignore
 
 
 <hr/>
