@@ -21,7 +21,7 @@
 
 
 🔴 Delete image 
-🏴🚩 You must remove container first.
+🏴🚩📌 You must remove container first.
 
 #check container
 docker ps -a
