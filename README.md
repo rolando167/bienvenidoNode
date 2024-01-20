@@ -1,5 +1,5 @@
-#🥇🥇 Node Basico 2020 - Docker 2024 simple
-
+#🥇🥇 Node Basico 2020 - Docker 2024 simple ‼‼
+ 
 ## Node
 * npm i
 * npm start
